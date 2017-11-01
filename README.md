@@ -1,0 +1,2 @@
+This project will recreate a non-working google homepage. It is intended to help me learn basic html coding and css styling.
+From The Odin Project's Web Development 101 course (http://www.theodingproject.com/courses/web-development-101/lessons/html-css)
